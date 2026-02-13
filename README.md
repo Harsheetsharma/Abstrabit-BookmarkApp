@@ -5,7 +5,7 @@ A minimal full-stack bookmark manager built with Next.js App Router and Supabase
 Users authenticate with Google, create personal bookmarks, see updates in real time across multiple tabs, and delete their own data.  
 All data access is protected using Row Level Security.
 
-Live Demo: abstrabit-bookmark-app.vercel.app  
+Live Demo: https://abstrabit-bookmark-app.vercel.app  
 GitHub: https://github.com/harsheetsharma/abstrabit-bookmarkApp
 
 ---
