@@ -169,4 +169,4 @@ Hosted on Vercel with environment variables configured in project settings.
 
 ## Author
 
-## Harsheet
+## Harsheet Sharma
